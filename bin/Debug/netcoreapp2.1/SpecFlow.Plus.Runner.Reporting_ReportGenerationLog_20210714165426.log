@@ -1,0 +1,10 @@
+﻿2021-07-14T16:54:26.6288364-03:00;Thread#1;Info;Reading test run result from Json file "C:\Users\Raphael\AppData\Local\Temp\e2e185af-c489-4de4-9e1b-12fa5824e081".
+2021-07-14T16:54:26.6468447-03:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\Raphael\AppData\Local\Temp\e2e185af-c489-4de4-9e1b-12fa5824e081"
+2021-07-14T16:54:26.6468447-03:00;Thread#1;Info;Deserializing test run result
+2021-07-14T16:54:27.1908779-03:00;Thread#1;Info;Successfully deserialized test run result
+2021-07-14T16:54:27.1908779-03:00;Thread#1;Info;Loading test run result
+2021-07-14T16:54:27.2118818-03:00;Thread#1;Info;Successfully loaded test run result
+2021-07-14T16:54:27.2208799-03:00;Thread#1;Info;creating 1 report(s)
+2021-07-14T16:54:27.2208799-03:00;Thread#1;Info;generate Report using template ReportTemplate.cshtml
+2021-07-14T16:54:28.0509412-03:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========
