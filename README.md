@@ -23,9 +23,4 @@ Automação de testes via WEB criado através do VS / Selenium WEBDRIVER, com as
 </div>
   
   
-  ### Contatos:
-
-<div>
-<a href = "mailto:contato@RaphaelAristides@Hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-aristides-b435821b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+  
